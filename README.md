@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Victor-Olaitan
-- 👀 I’m interested in front-end dev, also interested in backend but currently focusing on front-end 
+- 👀 I’m interested in web-dev.
 - 🌱 I’m currently learning React and javascript
-- 💞️ I’m looking to collaborate on front-end dev projects.
+- 💞️ I’m looking to collaborate on web-dev projects.
 - 📫 How to reach E-mail: olaitanfijimi16@gmail.com , WhatsApp: +2349058696271
 - 😄 Pronouns: he/him
   
